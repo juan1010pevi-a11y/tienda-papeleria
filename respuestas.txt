@@ -1,0 +1,30 @@
+PUNTO 2G:
+¿Por qué es mejor tener el proyecto en GitHub que solo en el computador?
+
+Tener el proyecto en un repositorio público de GitHub es mejor por varias razones:
+
+1. Respaldo seguro: si el computador se daña o se pierde, el código está
+   guardado en la nube y se puede recuperar desde cualquier lugar.
+
+2. Historial de cambios: GitHub guarda el registro de cada commit, lo que
+   permite ver qué cambió, cuándo y por qué, algo imposible con solo
+   guardar archivos localmente.
+
+3. Colaboración: otros desarrolladores pueden ver el proyecto, sugerir
+   mejoras o contribuir directamente, lo cual no es posible si el proyecto
+   solo existe en un computador personal.
+
+PUNTO 3:
+Tres beneficios de usar scripts para automatizar tareas en un proyecto de software:
+
+1. Ahorro de tiempo: un script ejecuta en segundos tareas repetitivas como
+   calcular totales o generar reportes, que manualmente tomarían mucho más
+   tiempo y esfuerzo.
+
+2. Reducción de errores: al automatizar los cálculos con un script, se elimina
+   el riesgo de errores humanos que ocurren al hacer operaciones manuales
+   como sumar precios o multiplicar cantidades.
+
+3. Reproducibilidad: el script siempre ejecuta exactamente los mismos pasos
+   en el mismo orden, garantizando que cualquier miembro del equipo obtenga
+   los mismos resultados sin importar quién lo corra.
